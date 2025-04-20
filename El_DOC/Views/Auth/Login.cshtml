@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+
+
+
+            <h2>Login</h2>
+            <form id="login-form" action="">
+                <div class="input-group">
+                    <input type="email" id="login-email" required placeholder=" " autocomplete="email">
+                    <label for="login-email">Email</label>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="login-password" required placeholder=" " autocomplete="current-password">
+                    <label for="login-password">Password</label>
+                </div>
+                <button type="submit" class="btn">Login</button>
+            </form>
+            <p class="switch-link">Don't have an account? <a href="#" id="show-register">Register here</a></p>
+
+

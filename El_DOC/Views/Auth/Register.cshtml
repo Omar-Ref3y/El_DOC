@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+    <h2>Register</h2>
+    <form id="register-form" asp-action="Auth/Register" method="post">
+        <div class="input-group">
+            <input type="text" id="register-name" required placeholder=" " autocomplete="name" name="Name">
+            <label for="register-name">Name</label>
+        </div>
+        <div class="input-group">
+            <input type="email" id="register-email" required placeholder=" " autocomplete="email" name="Email">
+            <label for="register-email">Email</label>
+        </div>
+        <div class="input-group">
+            <input type="password" id="register-password" required placeholder=" " autocomplete="new-password" name="PasswordHash">
+            <label for="register-password">Password</label>
+        </div>
+        <div class="input-group">
+            <select id="register-role" required>
+                <option value="">Select Role</option>
+                <option value="doctor">Doctor</option>
+                <option value="patient">Patient</option>
+            </select>
+            <label for="register-role">Role</label>
+        </div>
+        <div id="role-extra-fields"></div>
+        <button type="submit" class="btn">Register</button>
+    </form>
+    <p class="switch-link">Already have an account? <a href="#" id="show-login">Login</a></p>
+

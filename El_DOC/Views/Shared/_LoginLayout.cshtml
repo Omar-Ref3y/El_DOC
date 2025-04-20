@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/Login.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="bg-pattern"></div>
+    <div class="container">
+        <div class="welcome-text">
+            <h1>Welcome to<br>MediConnect</h1>
+            <p>Your trusted platform for medical appointments and healthcare management.</p>
+            <ul class="welcome-features">
+                <li>Easy appointment scheduling</li>
+                <li>Connect with specialists</li>
+                <li>Secure medical records</li>
+                <li>24/7 online access</li>
+            </ul>
+        </div>
+        <div class="card ">
+            @RenderBody()
+        </div>
+    </div>
+    <script src="~/js/loginScript.js"></script> 
+</body>
+</html>
