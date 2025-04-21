@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Presentation_Layer.rlcy2czjf5.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Man.png",
+      "PackagePath": "staticwebassets\\Images\\Man.png"
+    },
+    {
+      "Id": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Woman.png",
+      "PackagePath": "staticwebassets\\Images\\Woman.png"
+    },
+    {
       "Id": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\css\\Login.css",
       "PackagePath": "staticwebassets\\css\\Login.css"
     },

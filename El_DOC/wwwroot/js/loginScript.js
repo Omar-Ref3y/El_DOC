@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         setTimeout(() => {
             let html = '';
-            if (role === 'doctor') {
+            if (role === 'Doctor') {
                 html = `
                     <div class="role-fields doctor-fields">
                         <div class="input-group">
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         </div>
                     </div>
                 `;
-            } else if (role === 'patient') {
+            } else if (role === 'Patient') {
                 html = `
                     <div class="role-fields patient-fields">
                         <div class="input-group">
@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Modern form submission with validation and loading state
     forms.forEach(form => {
         form.addEventListener('submit', async function(e) {
-            e.preventDefault();
+            
             
             // Remove previous validation messages
             form.querySelectorAll('.validation-message').forEach(msg => msg.remove());

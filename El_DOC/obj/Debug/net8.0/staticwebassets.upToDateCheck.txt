@@ -1,6 +1,8 @@
 wwwroot\css\Login.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\Man.png
+wwwroot\Images\Woman.png
 wwwroot\js\loginScript.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

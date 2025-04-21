@@ -3,88 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\omarr\\source\\repos\\El_DOC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\wwwroot\\js\\loginscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\wwwroot\\js\\loginscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\presentation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\presentation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\dataaccess_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\dataaccess_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\entities\\availableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\entities\\availableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE53BB47-20F4-4AE0-A0ED-508E45A9427E}|Business_Layer\\Business_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\business_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE53BB47-20F4-4AE0-A0ED-508E45A9427E}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\dataaccess_layer\\migrations\\20250420174411_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42E500A0-358F-4CFB-890E-322BD9CF1A59}|DataAccess_Layer\\DataAccess_Layer.csproj|solutionrelative:dataaccess_layer\\migrations\\20250420174411_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|c:\\users\\omarr\\source\\repos\\el_doc\\el_doc\\wwwroot\\js\\loginscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{438A7F4B-903B-4250-A140-582348F9617A}|El_DOC\\Presentation_Layer.csproj|solutionrelative:el_doc\\wwwroot\\js\\loginscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,267 +34,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "loginScript.js",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\js\\loginScript.js",
-              "RelativeDocumentMoniker": "El_DOC\\wwwroot\\js\\loginScript.js",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\js\\loginScript.js",
-              "RelativeToolTip": "El_DOC\\wwwroot\\js\\loginScript.js",
-              "ViewState": "AgIAADUAAAAAAAAAAAAQwEgAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-20T21:13:55.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "El_DOC\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\LoginController.cs",
               "RelativeToolTip": "El_DOC\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T20:05:55.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "El_DOC\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "El_DOC\\Controllers\\RegisterController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswBEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T18:07:54.168Z",
+              "WhenOpened": "2025-04-21T01:41:39.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "El_DOC\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Auth\\Register.cshtml*",
-              "RelativeToolTip": "El_DOC\\Views\\Auth\\Register.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBwAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "El_DOC\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "El_DOC\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T18:05:53.568Z",
+              "WhenOpened": "2025-04-20T23:26:11.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_LoginLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeDocumentMoniker": "El_DOC\\Views\\Shared\\_LoginLayout.cshtml",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Shared\\_LoginLayout.cshtml",
-              "RelativeToolTip": "El_DOC\\Views\\Shared\\_LoginLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T17:59:44.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "El_DOC\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "El_DOC\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T17:53:27.888Z",
+              "Title": "loginScript.js",
+              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\js\\loginScript.js",
+              "RelativeDocumentMoniker": "El_DOC\\wwwroot\\js\\loginScript.js",
+              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\js\\loginScript.js",
+              "RelativeToolTip": "El_DOC\\wwwroot\\js\\loginScript.js",
+              "ViewState": "AgIAADoAAAAAAAAAAAAWwHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-20T23:18:13.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "El_DOC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "El_DOC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "El_DOC\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "El_DOC\\Views\\Register\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-20T17:51:28.502Z"
+              "WhenOpened": "2025-04-20T23:15:49.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20250420174411_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Migrations\\20250420174411_InitialCreate.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Migrations\\20250420174411_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Migrations\\20250420174411_InitialCreate.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Migrations\\20250420174411_InitialCreate.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T17:44:11.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "El_DOC\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\AuthController.cs",
               "RelativeToolTip": "El_DOC\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T16:14:54.183Z"
+              "WhenOpened": "2025-04-20T23:12:03.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Presentation_Layer.csproj",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Presentation_Layer.csproj",
-              "RelativeDocumentMoniker": "El_DOC\\Presentation_Layer.csproj",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Presentation_Layer.csproj",
-              "RelativeToolTip": "El_DOC\\Presentation_Layer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-19T23:36:33.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "El_DOC\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "El_DOC\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T22:57:18.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "El_DOC\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\appsettings.Development.json",
-              "RelativeToolTip": "El_DOC\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-19T22:40:01.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\Appointment.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Entities\\Appointment.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\Appointment.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Entities\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:11:47.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\Doctor.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Entities\\Doctor.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\Doctor.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Entities\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:11:16.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\Patient.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Entities\\Patient.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\Patient.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Entities\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:11:29.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Program.cs",
-              "RelativeDocumentMoniker": "El_DOC\\Program.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\Program.cs",
-              "RelativeToolTip": "El_DOC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T22:42:22.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\User.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:11:02.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DataAccess_Layer.csproj",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\DataAccess_Layer.csproj",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\DataAccess_Layer.csproj",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\DataAccess_Layer.csproj",
-              "RelativeToolTip": "DataAccess_Layer\\DataAccess_Layer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-19T23:37:14.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AvailableSlot.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\AvailableSlot.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Entities\\AvailableSlot.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Entities\\AvailableSlot.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Entities\\AvailableSlot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:12:06.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\Business_Layer\\Class1.cs",
-              "RelativeDocumentMoniker": "Business_Layer\\Class1.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\Business_Layer\\Class1.cs",
-              "RelativeToolTip": "Business_Layer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T19:35:34.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccess_Layer\\Class1.cs",
-              "ToolTip": "C:\\Users\\omarr\\source\\repos\\El_DOC\\DataAccess_Layer\\Class1.cs",
-              "RelativeToolTip": "DataAccess_Layer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T19:33:28.82Z"
+              "WhenOpened": "2025-04-20T18:07:54.168Z",
+              "EditorCaption": ""
             }
           ]
         }

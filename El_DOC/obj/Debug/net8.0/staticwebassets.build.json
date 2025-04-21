@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x3uEu5foIKtFaVa8ylkzonl6DKKy0fjoQ0yTIFzdQdg=",
+  "Hash": "OgCrCsiKwM3FxhvwLeh/DL67q2toZjdE+75VNykHABM=",
   "Source": "Presentation_Layer",
   "BasePath": "_content/Presentation_Layer",
   "Mode": "Default",
@@ -122,6 +122,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Man.png",
+      "SourceId": "Presentation_Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\",
+      "BasePath": "_content/Presentation_Layer",
+      "RelativePath": "Images/Man#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48nt69f32u",
+      "Integrity": "LKs6sgvoj3vzuFgCiItKzt4EoD0DUeuBa9OUidDcCMI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Man.png"
+    },
+    {
+      "Identity": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Woman.png",
+      "SourceId": "Presentation_Layer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\",
+      "BasePath": "_content/Presentation_Layer",
+      "RelativePath": "Images/Woman#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "363737102g",
+      "Integrity": "NYVSdIx4BeyU5tGcIKxd8b0p/zEe81dD4thbCDEgu60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Woman.png"
+    },
+    {
       "Identity": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\js\\loginScript.js",
       "SourceId": "Presentation_Layer",
       "SourceType": "Discovered",
@@ -136,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "td0f7phvqo",
-      "Integrity": "seobqRhEllYVoDdNSVNH3Edu4FmbHjMnx6nLNyMfVb4=",
+      "Fingerprint": "qphiff2qwx",
+      "Integrity": "0iq+ciQrSuKxpoHHeDzp7HdDLKnYflpWZS3IQPEgQuA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\loginScript.js"
@@ -1609,6 +1651,170 @@
       ]
     },
     {
+      "Route": "Images/Man.48nt69f32u.png",
+      "AssetFile": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Man.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKs6sgvoj3vzuFgCiItKzt4EoD0DUeuBa9OUidDcCMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 23:49:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48nt69f32u"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Man.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKs6sgvoj3vzuFgCiItKzt4EoD0DUeuBa9OUidDcCMI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Man.png",
+      "AssetFile": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Man.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKs6sgvoj3vzuFgCiItKzt4EoD0DUeuBa9OUidDcCMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 23:49:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKs6sgvoj3vzuFgCiItKzt4EoD0DUeuBa9OUidDcCMI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Woman.363737102g.png",
+      "AssetFile": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Woman.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NYVSdIx4BeyU5tGcIKxd8b0p/zEe81dD4thbCDEgu60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 23:49:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "363737102g"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Woman.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NYVSdIx4BeyU5tGcIKxd8b0p/zEe81dD4thbCDEgu60="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Woman.png",
+      "AssetFile": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\Images\\Woman.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NYVSdIx4BeyU5tGcIKxd8b0p/zEe81dD4thbCDEgu60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 23:49:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NYVSdIx4BeyU5tGcIKxd8b0p/zEe81dD4thbCDEgu60="
+        }
+      ]
+    },
+    {
       "Route": "js/loginScript.js",
       "AssetFile": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\js\\loginScript.js",
       "Selectors": [],
@@ -1619,7 +1825,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6684"
+          "Value": "6665"
         },
         {
           "Name": "Content-Type",
@@ -1627,11 +1833,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"seobqRhEllYVoDdNSVNH3Edu4FmbHjMnx6nLNyMfVb4=\""
+          "Value": "\"0iq+ciQrSuKxpoHHeDzp7HdDLKnYflpWZS3IQPEgQuA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 21:51:25 GMT"
+          "Value": "Sun, 20 Apr 2025 23:38:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1641,12 +1847,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-seobqRhEllYVoDdNSVNH3Edu4FmbHjMnx6nLNyMfVb4="
+          "Value": "sha256-0iq+ciQrSuKxpoHHeDzp7HdDLKnYflpWZS3IQPEgQuA="
         }
       ]
     },
     {
-      "Route": "js/loginScript.td0f7phvqo.js",
+      "Route": "js/loginScript.qphiff2qwx.js",
       "AssetFile": "C:\\Users\\omarr\\source\\repos\\El_DOC\\El_DOC\\wwwroot\\js\\loginScript.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1656,7 +1862,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6684"
+          "Value": "6665"
         },
         {
           "Name": "Content-Type",
@@ -1664,11 +1870,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"seobqRhEllYVoDdNSVNH3Edu4FmbHjMnx6nLNyMfVb4=\""
+          "Value": "\"0iq+ciQrSuKxpoHHeDzp7HdDLKnYflpWZS3IQPEgQuA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 20 Apr 2025 21:51:25 GMT"
+          "Value": "Sun, 20 Apr 2025 23:38:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1678,7 +1884,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "td0f7phvqo"
+          "Value": "qphiff2qwx"
         },
         {
           "Name": "label",
@@ -1686,7 +1892,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-seobqRhEllYVoDdNSVNH3Edu4FmbHjMnx6nLNyMfVb4="
+          "Value": "sha256-0iq+ciQrSuKxpoHHeDzp7HdDLKnYflpWZS3IQPEgQuA="
         }
       ]
     },
